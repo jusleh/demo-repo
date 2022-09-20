@@ -10,3 +10,6 @@ t21121
 
 1. Open index.html in your browser
 
+## Local development 2
+
+2. demo
